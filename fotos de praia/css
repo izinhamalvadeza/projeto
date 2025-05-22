@@ -1,0 +1,5 @@
+.banner{
+    width: 100%;
+    height: 30%;
+    background: url(../img/00bdb0b73df8bc9711e4c8a62c4fb543.jpg);
+}
